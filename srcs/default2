@@ -18,7 +18,7 @@ server {
 	ssl_certificate_key /etc/ssl/monsite.key;
 
 	location / {
-		autoindex on;
+		autoindex off;
 	}
 	
 	location /wordpress {
