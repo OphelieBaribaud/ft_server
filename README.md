@@ -15,4 +15,4 @@ Mise en place dans un seul docker d'un serveur web en utilisant :
 
 ![alt text](http://g.recordit.co/TteImByZj2.gif)
 
-Projet réalisé dans le cadre de l'École 42.
+Projet réalisé dans le cadre de l'École 42. Note 100/100.
